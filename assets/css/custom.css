@@ -3,3 +3,17 @@
     {
         height: 54px;
     }
+
+/* custom css */
+#sp-16-projects {
+	display: none;
+	transition: display 100ms;
+}
+
+#sp-16-projects-headline:hover {
+	cursor: pointer;
+}
+
+a.action-link {
+	text-decoration: none;
+}
