@@ -10,7 +10,12 @@
 	transition: display 100ms;
 }
 
-#sp-16-projects-headline:hover {
+#fa-16-projects {
+	display: none;
+	transition: display 100ms;
+}
+
+.headline:hover {
 	cursor: pointer;
 }
 
